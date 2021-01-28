@@ -1,0 +1,15 @@
+// Boilerplate: Example truetype font setup that would be included in my-styles.scss
+// Note that TTF files are not included. @font-face may include other font formats as well
+
+$pala-filename: 'Palanquin-Regular';
+$pala-font-name: 'Palanquin';
+$pala-font-family: 'Palanquin';
+$pala-font-weight: '400';
+$pala-font-path: '../assets' !default;
+
+@font-face {
+  font-family: '#{$pala-font-name}';
+  src: url('#{$pala-font-path}/#{$pala-filename}.ttf') format('truetype');
+  font-weight: $pala-font-weight;
+  font-style: normal;
+}

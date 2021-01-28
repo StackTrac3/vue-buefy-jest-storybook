@@ -1,0 +1,25 @@
+@charset "utf-8";
+@import 'variables.scss';
+
+/* Local asset font example */
+// @import "palanquin.scss";
+// $body-family: "Palanquin";
+// $family-sans-serif: "Palanquin", sans-serif;
+
+// Google font example
+@import url('https://fonts.googleapis.com/css?family=Nunito:400,700');
+
+
+// Update some of Bulma's component variables
+$body-background-color: $beige;
+
+
+/* Selectively import bulma css
+@import "~bulma/sass/base/_all.sass";
+@import "~bulma/sass/elements/button.sass";
+*/
+// Or import all of bulma
+@import '~bulma/bulma';
+
+// Import buefy
+@import '~buefy/src/scss/buefy';

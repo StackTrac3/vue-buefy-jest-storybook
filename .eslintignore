@@ -1,0 +1,7 @@
+dist/
+public/
+
+# TODO this is supposed to be a quick fix - revisit it
+storybook/config/preview.js-generated-config-entry.js
+storybook/config/generated-stories-entry.js
+storybook/config/storybook-init-framework-entry.js
