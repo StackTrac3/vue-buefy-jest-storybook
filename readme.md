@@ -148,4 +148,4 @@ Improve demos for :
 
 # Contact
 
-Repository/Issues: [https://github.com/StackTrac3/vue-buefy-jest](https://github.com/StackTrac3/vue-buefy-jest)
+Repository/Issues: [https://github.com/StackTrac3/vue2-buefy-jest-storybook](https://github.com/StackTrac3/vue2-buefy-jest-storybook)
