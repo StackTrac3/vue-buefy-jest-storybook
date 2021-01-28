@@ -52,8 +52,6 @@ yarn serve
 
 Prettier and ESlint extensions are highly recommended for your IDE.
 
-<br />
-
 # Testing
 
 Developing components with hot reload is a practice of the past. Utilize on-save feedback from Jest and Storybook to drive your development.
