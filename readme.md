@@ -1,5 +1,6 @@
 <!-- prettier-ignore -->
 <!-- ABOUT THE PROJECT -->
+<img src="https://user-images.githubusercontent.com/5760856/106223876-441fb880-61b0-11eb-92ea-82304b1d00ad.png" alt="Logo">
 
 # An Opinionated Boilerplate for Vue
 
